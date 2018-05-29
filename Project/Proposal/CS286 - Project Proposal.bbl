@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{kempe}
+Ev´a~Tardos David~Kempe, Jon~Kleinberg.
+\newblock Maximising the spread of influence through a social network.
+\newblock 2003.
+
+\bibitem{chen}
+Ming-Sheng Shang Yi-Cheng Zhang Tao~Zhou Duanbing~Chen, Linyuan~Lü.
+\newblock Identifying influential nodes in complex networks.
+\newblock 2012.
+
+\bibitem{richardson}
+Pedro~Domingos Matthew~Richardson.
+\newblock Mining knowledge-sharing sites for viral marketing.
+\newblock 2002.
+
+\bibitem{wang}
+Yajun~Wang Wei~Chen, Chi Chiu~Wang.
+\newblock Scalable influence maximization for prevalent viral marketing in
+  large-scale social networks.
+\newblock 2010.
+
+\bibitem{liu}
+Shanshan Li Jingying Zhang-Lisong Shao Chenlin Huang Liquan~Xiao Xiaodong~Liu,
+  Xiangke~Liao.
+\newblock On the shoulders of giants: Incremental influence maximisation in
+  evolving social networks.
+\newblock 2015.
+
+\end{thebibliography}

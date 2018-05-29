@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: CS286 - Project Proposal.aux
+The style file: plainurl.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: proposal.bib
+Too many commas in name 1 of "Xiaodong Liu, Xiangke Liao, Shanshan Li, Jingying Zhang, Lisong Shao, Chenlin Huang, Liquan Xiao" for entry liu
+while executing---line 1404 of file plainurl.bst
+Too many commas in name 1 of "Xiaodong Liu, Xiangke Liao, Shanshan Li, Jingying Zhang, Lisong Shao, Chenlin Huang, Liquan Xiao" for entry liu
+while executing---line 1404 of file plainurl.bst
+Too many commas in name 1 of "Xiaodong Liu, Xiangke Liao, Shanshan Li, Jingying Zhang, Lisong Shao, Chenlin Huang, Liquan Xiao" for entry liu
+while executing---line 1404 of file plainurl.bst
+Too many commas in name 1 of "Xiaodong Liu, Xiangke Liao, Shanshan Li, Jingying Zhang, Lisong Shao, Chenlin Huang, Liquan Xiao" for entry liu
+while executing---line 1404 of file plainurl.bst
+Too many commas in name 1 of "Duanbing Chen, Linyuan Lü, Ming-Sheng Shang, Yi-Cheng Zhang, Tao Zhou" for entry chen
+while executing---line 1404 of file plainurl.bst
+Too many commas in name 1 of "Duanbing Chen, Linyuan Lü, Ming-Sheng Shang, Yi-Cheng Zhang, Tao Zhou" for entry chen
+while executing---line 1404 of file plainurl.bst
+Warning--empty journal in kempe
+Too many commas in name 1 of "Duanbing Chen, Linyuan Lü, Ming-Sheng Shang, Yi-Cheng Zhang, Tao Zhou" for entry chen
+while executing---line 1446 of file plainurl.bst
+Too many commas in name 1 of "Duanbing Chen, Linyuan Lü, Ming-Sheng Shang, Yi-Cheng Zhang, Tao Zhou" for entry chen
+while executing---line 1446 of file plainurl.bst
+Warning--empty journal in chen
+Warning--empty journal in richardson
+Warning--empty journal in wang
+Too many commas in name 1 of "Xiaodong Liu, Xiangke Liao, Shanshan Li, Jingying Zhang, Lisong Shao, Chenlin Huang, Liquan Xiao" for entry liu
+while executing---line 1446 of file plainurl.bst
+Too many commas in name 1 of "Xiaodong Liu, Xiangke Liao, Shanshan Li, Jingying Zhang, Lisong Shao, Chenlin Huang, Liquan Xiao" for entry liu
+while executing---line 1446 of file plainurl.bst
+Too many commas in name 1 of "Xiaodong Liu, Xiangke Liao, Shanshan Li, Jingying Zhang, Lisong Shao, Chenlin Huang, Liquan Xiao" for entry liu
+while executing---line 1446 of file plainurl.bst
+Too many commas in name 1 of "Xiaodong Liu, Xiangke Liao, Shanshan Li, Jingying Zhang, Lisong Shao, Chenlin Huang, Liquan Xiao" for entry liu
+while executing---line 1446 of file plainurl.bst
+Warning--empty journal in liu
+You've used 5 entries,
+            2849 wiz_defined-function locations,
+            635 strings with 5717 characters,
+and the built_in function-call counts, 1497 in all, are:
+= -- 135
+> -- 45
+< -- 0
++ -- 15
+- -- 10
+* -- 42
+:= -- 251
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 20
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 50
+empty$ -- 146
+format.name$ -- 10
+if$ -- 386
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 50
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 130
+stack$ -- 0
+substring$ -- 25
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 5
+while$ -- 10
+width$ -- 6
+write$ -- 47
+(There were 12 error messages)
